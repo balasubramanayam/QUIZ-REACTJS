@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "question": {
+        "questionId": 1,
+        "complexity": "easy",
+        "content": "Which of the following best describes Java?",
+        "isActive": "yes",
+        "mark": 1,
+        "questionType": "MSQ",
+        "subtopic": {
+          "subtopicId": 1,
+          "subtopicName": "Basics",
+          "topic": {
+            "topicId": 1,
+            "topicCreationDate": "6-7-2024",
+            "topicName": "Java"
+          }
+        }
+      },
+      "answer": [
+        {
+          "optionId": 1,
+          "optionContent": "Java is platform-independent.",
+          "optionMark": 0,
+          "correctAnswer": 1
+        },
+        {
+          "optionId": 2,
+          "optionContent": "Java is primarily used for frontend web development.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        },
+        {
+          "optionId": 3,
+          "optionContent": "Java programs are compiled into bytecode.",
+          "optionMark": 0,
+          "correctAnswer": 1
+        },
+        {
+          "optionId": 4,
+          "optionContent": "Java is a scripting language.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "question": {
+        "questionId": 2,
+        "complexity": "easy",
+        "content": "Which of the following best describes Java?",
+        "isActive": "yes",
+        "mark": 1,
+        "questionType": "MSQ",
+        "subtopic": {
+          "subtopicId": 1,
+          "subtopicName": "Basics",
+          "topic": {
+            "topicId": 1,
+            "topicCreationDate": "6-7-2024",
+            "topicName": "Java"
+          }
+        }
+      },
+      "answer": [
+        {
+          "optionId": 1,
+          "optionContent": "Java is platform-independent.",
+          "optionMark": 0,
+          "correctAnswer": 1
+        },
+        {
+          "optionId": 2,
+          "optionContent": "Java is primarily used for frontend web development.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        },
+        {
+          "optionId": 3,
+          "optionContent": "Java programs are compiled into bytecode.",
+          "optionMark": 0,
+          "correctAnswer": 1
+        },
+        {
+          "optionId": 4,
+          "optionContent": "Java is a scripting language.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "question": {
+        "questionId": 3,
+        "complexity": "medium",
+        "content": "What is the main difference between JDK and JRE in Java?",
+        "isActive": "yes",
+        "mark": 1,
+        "questionType": "SSQ",
+        "subtopic": {
+          "subtopicId": 2,
+          "subtopicName": "Environment",
+          "topic": {
+            "topicId": 1,
+            "topicCreationDate": "6-7-2024",
+            "topicName": "Java"
+          }
+        }
+      },
+      "answer": [
+        {
+          "optionId": 1,
+          "optionContent": "JDK contains JRE and development tools.",
+          "optionMark": 0,
+          "correctAnswer": 1
+        },
+        {
+          "optionId": 2,
+          "optionContent": "JRE contains JVM and development tools.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        },
+        {
+          "optionId": 3,
+          "optionContent": "JDK is used for compiling Java programs.",
+          "optionMark": 0,
+          "correctAnswer": 1
+        },
+        {
+          "optionId": 4,
+          "optionContent": "JRE is used for Java application deployment only.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "question": {
+        "questionId": 4,
+        "complexity": "easy",
+        "content": "Which statement about Java's memory management is correct?",
+        "isActive": "yes",
+        "mark": 1,
+        "questionType": "MSQ",
+        "subtopic": {
+          "subtopicId": 3,
+          "subtopicName": "Memory Management",
+          "topic": {
+            "topicId": 1,
+            "topicCreationDate": "6-7-2024",
+            "topicName": "Java"
+          }
+        }
+      },
+      "answer": [
+        {
+          "optionId": 1,
+          "optionContent": "Java uses manual memory management.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        },
+        {
+          "optionId": 2,
+          "optionContent": "Java employs automatic garbage collection.",
+          "optionMark": 0,
+          "correctAnswer": 1
+        },
+        {
+          "optionId": 3,
+          "optionContent": "Java handles memory leaks by default.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        },
+        {
+          "optionId": 4,
+          "optionContent": "Java memory allocation is stack-based only.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "question": {
+        "questionId": 5,
+        "complexity": "medium",
+        "content": "What is the purpose of 'static' keyword in Java?",
+        "isActive": "yes",
+        "mark": 1,
+        "questionType": "SSQ",
+        "subtopic": {
+          "subtopicId": 4,
+          "subtopicName": "Keywords",
+          "topic": {
+            "topicId": 1,
+            "topicCreationDate": "6-7-2024",
+            "topicName": "Java"
+          }
+        }
+      },
+      "answer": [
+        {
+          "optionId": 1,
+          "optionContent": "To create a class that cannot be instantiated.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        },
+        {
+          "optionId": 2,
+          "optionContent": "To define constants.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        },
+        {
+          "optionId": 3,
+          "optionContent": "To allow methods and variables to be accessed without creating an instance of the class.",
+          "optionMark": 0,
+          "correctAnswer": 1
+        },
+        {
+          "optionId": 4,
+          "optionContent": "To encapsulate code that should not be changed.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "question": {
+        "questionId": 6,
+        "complexity": "easy",
+        "content": "Which statement about Java interfaces is true?",
+        "isActive": "yes",
+        "mark": 1,
+        "questionType": "SSQ",
+        "subtopic": {
+          "subtopicId": 5,
+          "subtopicName": "Interfaces",
+          "topic": {
+            "topicId": 1,
+            "topicCreationDate": "6-7-2024",
+            "topicName": "Java"
+          }
+        }
+      },
+      "answer": [
+        {
+          "optionId": 1,
+          "optionContent": "Interfaces can contain method implementations.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        },
+        {
+          "optionId": 2,
+          "optionContent": "A class can implement multiple interfaces.",
+          "optionMark": 0,
+          "correctAnswer": 1
+        },
+        {
+          "optionId": 3,
+          "optionContent": "Interfaces can extend classes.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        },
+        {
+          "optionId": 4,
+          "optionContent": "Interfaces are used to achieve multiple inheritance in Java.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "question": {
+        "questionId": 7,
+        "complexity": "medium",
+        "content": "What is a Java servlet?",
+        "isActive": "yes",
+        "mark": 1,
+        "questionType": "SSQ",
+        "subtopic": {
+          "subtopicId": 6,
+          "subtopicName": "Servlets",   
+          "topic": {
+            "topicId": 1,
+            "topicCreationDate": "6-7-2024",
+            "topicName": "Java"
+          }
+        }
+      },
+      "answer": [
+        {
+          "optionId": 1,
+          "optionContent": "A Java class that extends HttpServlet.",
+          "optionMark": 0,
+          "correctAnswer": 1
+        },
+        {
+          "optionId": 2,
+          "optionContent": "A Java application that runs independently on the client side.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        },
+        {
+          "optionId": 3,
+          "optionContent": "A Java program that generates dynamic content on a web server.",
+          "optionMark": 0,
+          "correctAnswer": 1
+        },
+        {
+          "optionId": 4,
+          "optionContent": "A Java library for handling HTTP requests and responses.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "question": {
+        "questionId": 8,
+        "complexity": "easy",
+        "content": "What is the main advantage of using exceptions in Java?",
+        "isActive": "yes",
+        "mark": 1,
+        "questionType": "MSQ",
+        "subtopic": {
+          "subtopicId": 7,
+          "subtopicName": "Exceptions",
+          "topic": {
+            "topicId": 1,
+            "topicCreationDate": "6-7-2024",
+            "topicName": "Java"
+          }
+        }
+      },
+      "answer": [
+        {
+          "optionId": 1,
+          "optionContent": "Exceptions allow handling of errors and exceptional situations.",
+          "optionMark": 0,
+          "correctAnswer": 1
+        },
+        {
+          "optionId": 2,
+          "optionContent": "Exceptions improve code readability and maintainability.",
+          "optionMark": 0,
+          "correctAnswer": 1
+        },
+        {
+          "optionId": 3,
+          "optionContent": "Exceptions replace if-else conditions in Java.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        },
+        {
+          "optionId": 4,
+          "optionContent": "Exceptions are only used for handling runtime errors.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "question": {
+        "questionId": 9,
+        "complexity": "medium",
+        "content": "What is method overloading in Java?",
+        "isActive": "yes",
+        "mark": 1,
+        "questionType": "MSQ",
+        "subtopic": {
+          "subtopicId": 8,
+          "subtopicName": "Methods",
+          "topic": {
+            "topicId": 1,
+            "topicCreationDate": "6-7-2024",
+            "topicName": "Java"
+          }
+        }
+      },
+      "answer": [
+        {
+          "optionId": 1,
+          "optionContent": "Method overloading allows a class to have multiple methods with the same name.",
+          "optionMark": 0,
+          "correctAnswer": 1
+        },
+        {
+          "optionId": 2,
+          "optionContent": "Method overloading is achieved by changing the method name.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        },
+        {
+          "optionId": 3,
+          "optionContent": "Method overloading must have different return types.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        },
+        {
+          "optionId": 4,
+          "optionContent": "Method overloading is not supported in Java.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "question": {
+        "questionId": 10,
+        "complexity": "easy",
+        "content": "Which statement about Java constructors is correct?",
+        "isActive": "yes",
+        "mark": 1,
+        "questionType": "MSQ",
+        "subtopic": {
+          "subtopicId": 9,
+          "subtopicName": "Constructors",
+          "topic": {
+            "topicId": 1,
+            "topicCreationDate": "6-7-2024",
+            "topicName": "Java"
+          }
+        }
+      },
+      "answer": [
+        {
+          "optionId": 1,
+          "optionContent": "Constructors can have a return type.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        },
+        {
+          "optionId": 2,
+          "optionContent": "Constructors are used to initialize objects.",
+          "optionMark": 0,
+          "correctAnswer": 1
+        },
+        {
+          "optionId": 3,
+          "optionContent": "Constructors can be overloaded.",
+          "optionMark": 0,
+          "correctAnswer": 1
+        },
+        {
+          "optionId": 4,
+          "optionContent": "Constructors are automatically inherited from superclasses.",
+          "optionMark": 0,
+          "correctAnswer": 0
+        }
+      ]
+    }
+  ]
+}

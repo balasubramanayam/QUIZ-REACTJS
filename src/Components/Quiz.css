@@ -1,0 +1,55 @@
+.quiz-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .quiz-main {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+  
+  .quiz-option {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .quiz-navigation {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .progress-container {
+    position: absolute;
+    top: 23%;
+    right: 30px;
+    width: 300px; 
+    margin-right: 42px;
+  }
+  
+  .progress {
+    height: 25px;
+  }
+  
+  .progress-bar {
+    background-color: #52b345;
+    color: #fff;
+    text-align: center;
+    line-height: 100px;
+  }
+   
+
+  .flag-action {
+    cursor: pointer;
+  }
+  
+
+  
+  
+ 
